@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437995513131",
+    "project_id": "med-finder-d8ddb",
+    "storage_bucket": "med-finder-d8ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437995513131:android:83f96db69773735c25516e",
+        "android_client_info": {
+          "package_name": "com.dplone.finder_med"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzq-3J5mxXrXXpEt-jqfCT7rsaVQ1zNNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
